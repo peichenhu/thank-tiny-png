@@ -1,10 +1,11 @@
 {
     "name": "thank-tiny-png",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "versionInfo": [
         "1.0.0 初始化项目",
         "1.0.2 整理 README",
-        "1.0.4 压缩代码"
+        "1.0.4 压缩代码",
+        "1.0.6 更新上传图片接口 /backend/opt/shrink"
     ],
     "main": "dist/thank-tiny-png.cjs.js",
     "iife": "dist/thank-tiny-png.js",
